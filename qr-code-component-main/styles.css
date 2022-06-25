@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.mainText {
+    font-size: 15px;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', 'monospace';
+    font-weight: 700;
+    text-align: center;
+}
+
+.subText {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', 'monospace';
+    font-weight: 400;
+    text-align: center;
+}
+
+.imageSize {
+    width: 250px;
+}
+
+.border {
+    width: 250px;
+    height: 400px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.center {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
